@@ -1,4 +1,3 @@
-Django
 Pandas>=1.3.0
 Matplotlib>=3.4.0
 Seaborn>=0.11.0
