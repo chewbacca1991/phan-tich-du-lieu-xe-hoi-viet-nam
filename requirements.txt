@@ -3,4 +3,4 @@ Pandas
 Matplotlib
 Seaborn
 
-# Các gói khác cần thiết cho công việc phân tích và trực quan hóa dữ liệu
+# Additional packages needed for data analysis and visualization
